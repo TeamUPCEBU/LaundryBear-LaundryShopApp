@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:3:5-53
 		INJECTED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/Andr
 	android:name
 		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:8:22-69
 application
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:10:5-19:19
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:10:5-20:19
 MERGED from [com.android.support:appcompat-v7:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
@@ -55,11 +55,15 @@ MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/Lau
 	android:theme
 		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:15:9-40
 activity#laundrybear.laundrybear_laundryshopapp.LoginActivity
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:16:9-18:69
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:16:9-18:60
 	android:label
 		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:18:13-57
 	android:name
 		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:17:13-42
+activity#laundrybear.laundrybear_laundryshopapp.MainActivity
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:19:19-47
 uses-sdk
 INJECTED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
