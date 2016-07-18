@@ -13,30 +13,12 @@ ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/Andr
 	android:versionCode
 		INJECTED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:6:5-71
+uses-permission#android.permission.INTERNET
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:6:22-68
-uses-permission#android.permission.READ_PROFILE
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:7:5-71
-	android:name
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:7:22-68
-uses-permission#android.permission.READ_CONTACTS
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:8:5-72
-	android:name
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:8:22-69
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:10:5-20:19
-MERGED from [com.android.support:appcompat-v7:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:design:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:7:5-20:19
 MERGED from [com.android.support:appcompat-v7:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
@@ -45,38 +27,31 @@ MERGED from [com.android.support:animated-vector-drawable:24.0.0] /home/intern01
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:14:9-35
-	android:allowBackup
 		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:15:9-40
-activity#laundrybear.laundrybear_laundryshopapp.LoginActivity
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:16:9-18:60
-	android:label
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:18:13-57
-	android:name
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:17:13-42
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:12:9-40
 activity#laundrybear.laundrybear_laundryshopapp.MainActivity
-ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:19:9-59
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /home/intern01/Documents/LaundryBear-LaundryShopApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:design:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:appcompat-v7:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-vector-drawable:24.0.0] /home/intern01/Documents/LaundryBear-LaundryShopApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
